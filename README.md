@@ -8,7 +8,7 @@ My personal portfolio with an aesthetic look and finish. The app contains the fo
 - Intuitive CSS
 - Aesthetic color scheme
 - Clean & responsive code
-- Click to visit the app 👉🏻 [Modern Calculator][website]
+- Click to visit the app 👉🏻 [Personal Portfolio][website]
 
 <strong> Reach out for your projects on web development 💻 </strong>
 
